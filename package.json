@@ -1,7 +1,6 @@
 {
   "name": "crash-course",
   "version": "1.0.0",
-  "description": "",
   "main": "http.js",
   "directories": {
     "doc": "docs"
@@ -78,5 +77,6 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
