@@ -30,6 +30,7 @@
     "fresh": "^0.5.2",
     "function-bind": "^1.1.2",
     "get-intrinsic": "^1.2.2",
+    "git": "^0.1.5",
     "gopd": "^1.0.1",
     "has-property-descriptors": "^1.0.1",
     "has-proto": "^1.0.1",
@@ -74,7 +75,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
